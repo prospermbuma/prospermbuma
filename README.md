@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-# I'm Prosper Mbuma
-<br><br>💻Software Engineer | Cybersecurity Expert | DevOps Engineer | UI/UX Designer<br><br>🌱 I’m currently learning AI.<br><br>🤝 Connect with me: prospermbuma@gmail.com
+I'm Prosper Mbuma
+<br><br>
+💻Software Engineer | Cybersecurity Expert | DevOps Engineer | UI/UX Designer<br><br>🌱 I’m currently learning AI.
+<br><br>
+🤝 Connect with me: prospermbuma@gmail.com
 
 
 # 💻 Tech Stack:
