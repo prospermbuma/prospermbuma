@@ -2,7 +2,7 @@
 
 I'm Prosper Mbuma
 <br><br>
-💻Software Engineer | Cybersecurity Expert | DevOps Engineer | UI/UX Designer<br><br>🌱 I’m currently learning AI
+💻 Software Engineer | Cybersecurity Expert | DevOps Engineer | UI/UX Designer<br><br>🌱 I’m currently learning AI
 <br><br>
 👯 I’m looking to collaborate on teams
 <br><br>
