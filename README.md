@@ -3,7 +3,7 @@
 I'm Prosper Mbuma
 <br><br>
 💻 Software Engineer | Cybersecurity Expert | DevOps Engineer | UI/UX Designer
-<br><br>🌱 I’m currently learning AI and Blockchain
+<br><br>🌱 I’m currently learning AI Engineering and Blockchain
 <br><br>
 👯 I’m looking to collaborate on teams
 <br><br>
